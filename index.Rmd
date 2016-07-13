@@ -1,5 +1,5 @@
 ---
-title       : Prediticing Vehicle Mileage
+title       : Predicting Vehicle Mileage
 subtitle    : From Vehicle Weight, Quarter Mile Time, and Transmission Type
 author      : Donald Miller
 job         : 
@@ -30,8 +30,8 @@ $(function() {
 ## Why Predict Mileage
 
 - Vehicle mileage is of increasing importance to consumers
-- Understanding the tradeoffs for mileage can determine whether or not a particular set of constraints is reasonable early in the design process
-- A simple prediction algorithm can greatly reduce the time needed to iterate over design consederation.
+- Understanding the trade offs for mileage can determine whether or not a particular set of constraints is reasonable early in the design process
+- A simple prediction algorithm can greatly reduce the time needed to iterate over design consideration.
 
 ---  
 
@@ -52,7 +52,7 @@ value
 ```
 Resulting in `r round(value,2)` miles per gallon.
 
-Alternatively, we could do the same through a convinient web application.
+Alternatively, we could do the same through a convenient web application.
 
 ---
 
@@ -67,6 +67,6 @@ Alternatively, we could do the same through a convinient web application.
 
 - Predicting Mileage is useful in the design stage of vehicles
 - Simple predictions can suggest whether or not a design is worth pursuing
-- A simple web interface provides a convinent way to enter the required information and get the results
+- A simple web interface provides a convenient way to enter the required information and get the results
 - A simple prediction algorithm runs with minimal overhead
 
